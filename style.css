@@ -1,0 +1,11 @@
+*{
+    display: grid;
+    place-content: center;
+    margin: 0.7em;
+}
+body{
+    background: url(https://img.freepik.com/vector-gratis/fondo-pantalla-estilo-comico_79603-1248.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{font-weight: bolder; margin-top: 30px;}
